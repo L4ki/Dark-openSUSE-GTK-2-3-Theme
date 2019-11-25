@@ -20,7 +20,7 @@ gtk-color-scheme = "selected_fg_color:#ffffff\nselected_bg_color:#006A80"
 # Insensitive foreground/background
 gtk-color-scheme = "insensitive_fg_color:#212933\ninsensitive_bg_color:#212933"
 # Menus
-gtk-color-scheme = "menu_color:#212933"
+gtk-color-scheme = "menu_color:#1e262f"
 # Links
 gtk-color-scheme = "link_color:#006A80\nvisited_link_color:#006A80"
 # Treeview headers
