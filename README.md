@@ -12,3 +12,8 @@ Changelog: 11.09.2019.
 ----------------------
 
 Icon correction in assets folder
+
+Changelog: 25.11.2019.
+---------------------
+
+Redesigned Plasma Theme
