@@ -22,3 +22,8 @@ Changelog: 12.02.2020.
 ----------------------
 
 Redesigned Theme
+
+Changelog: 17.07.2020.
+---------------------
+
+Correction of gtk.css file
