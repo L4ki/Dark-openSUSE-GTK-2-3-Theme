@@ -31,4 +31,4 @@ Correction of gtk.css file
 Changelog: 21.08..2020.
 ----------------------
 
-Correction button icon
+Correction button icons
