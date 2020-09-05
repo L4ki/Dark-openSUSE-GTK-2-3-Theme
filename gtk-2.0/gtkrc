@@ -28,7 +28,7 @@ gtk-color-scheme = "column_header_color:#eef8f9\nhover_column_header_color:#e0f1
 # Window decoration
 gtk-color-scheme = "window_color:#14191f"
 # Tooltips
-gtk-color-scheme = "tooltip_fg_color:#ffffff\ntooltip_bg_color:#006A80"
+gtk-color-scheme = "tooltip_fg_color:#ffffff\ntooltip_bg_color:#1b222a"
 
 # Set GTK settings
 gtk-auto-mnemonics              = 1
