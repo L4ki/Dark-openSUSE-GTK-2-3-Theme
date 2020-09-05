@@ -32,3 +32,8 @@ Changelog: 21.08..2020.
 ----------------------
 
 Correction button icons
+
+Changelog: 05.09.2020.
+----------------------
+
+Correction of gtkrc file
