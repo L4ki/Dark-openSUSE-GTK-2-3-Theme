@@ -16,7 +16,7 @@ gtk-color-scheme = "text_color:white\nbase_color:#14191f"
 # Foreground/background
 gtk-color-scheme = "fg_color:#eeeeec\nbg_color:#14191f"
 # Selected foreground/background
-gtk-color-scheme = "selected_fg_color:#ffffff\nselected_bg_color:#006A80"
+gtk-color-scheme = "selected_fg_color:#becfd2\nselected_bg_color:#006A80"
 # Insensitive foreground/background
 gtk-color-scheme = "insensitive_fg_color:#14191f\ninsensitive_bg_color:#14191f"
 # Menus
@@ -28,7 +28,7 @@ gtk-color-scheme = "column_header_color:#eef8f9\nhover_column_header_color:#e0f1
 # Window decoration
 gtk-color-scheme = "window_color:#14191f"
 # Tooltips
-gtk-color-scheme = "tooltip_fg_color:#ffffff\ntooltip_bg_color:#1b222a"
+gtk-color-scheme = "tooltip_fg_color:#becfd2\ntooltip_bg_color:#1b222a"
 
 # Set GTK settings
 gtk-auto-mnemonics              = 1
