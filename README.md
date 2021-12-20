@@ -42,3 +42,8 @@ Changelog: 26.09.2020.
 ----------------------
 
 Gtkrc file correction
+
+Changelog: 20.12.2021.
+----------------------
+
+Fixed assets: button-hover.png
